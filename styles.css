@@ -1,0 +1,25 @@
+body {
+    background-color: aliceblue;
+}
+
+.titles {
+    color: slategray;
+    background-color: black;
+    font-size: xx-large;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.links {
+    font-weight: 400;
+}
+
+.desc {
+    font-size: 14px;
+}
+
+.pic {
+    height: auto;
+    width: 200px;
+}
